@@ -5,9 +5,9 @@ print(a)
 print(b)
 
 c = a
-d = b
-a = d
+a = b
 b = c
+
 
 print(a)
 print(b)
